@@ -1502,6 +1502,7 @@
 					"-DDEBUG",
 					"-ffast-math",
 				);
+				SDKROOT = macosx;
 				WARNING_CFLAGS = (
 					"-Wall",
 					"-W",
@@ -1554,6 +1555,7 @@
 					"-DNDEBUG",
 					"-ffast-math",
 				);
+				SDKROOT = macosx;
 				WARNING_CFLAGS = (
 					"-Wall",
 					"-W",
