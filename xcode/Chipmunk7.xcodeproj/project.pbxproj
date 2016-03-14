@@ -1366,7 +1366,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = macosx10.10;
+				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
 			};
 			name = Debug;
@@ -1387,7 +1387,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = macosx10.10;
+				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
 				VALIDATE_PRODUCT = YES;
 			};
