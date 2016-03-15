@@ -1406,7 +1406,7 @@
 					"-ffast-math",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = macosx10.10;
+				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
 			};
 			name = Debug;
@@ -1423,7 +1423,7 @@
 					"-ffast-math",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = macosx10.10;
+				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
 			};
 			name = Release;
